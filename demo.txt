@@ -9,3 +9,6 @@ git push -u origin master
 ..or push an existing repository from the command line
 git remote add origin https://github.com/rashika-tasnim/demo.git
 git push -u origin master
+
+../remove the file in git
+git rm --cached filename
